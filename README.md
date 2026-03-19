@@ -6,7 +6,7 @@ Computational Biologist | Lab Automation Enthusiast
 
 🔭 The Vision
 
-  I am transitioning from traditional biology to a computational-first approach. My goal is to replace manual data bottlenecks with scalable, automated pipelines.
+  >> I am transitioning from traditional biology to a computational-first approach. My goal is to replace manual data bottlenecks with scalable, automated pipelines.
 
 🛠 My Tech Stack
 
